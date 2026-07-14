@@ -132,4 +132,4 @@ As part of building my professional identity in CSE, I follow these daily engine
 - **Academic Integrity:** All solutions are structuralized organically by hand to train the technical problem-solving skills needed to separate a true engineer from someone who can only prompt an AI.
 
 ---
-*Prepared as a comprehensive study companion for Web Programming Lab, Department of CSE, Metropolitan University.*
+*Prepared as a comprehensive study companion for Web Programming Lab, Department of CSE, Metropolitan University, under the guidance of Abu Jafar Md Jakaria (Senior Lecturer).*
